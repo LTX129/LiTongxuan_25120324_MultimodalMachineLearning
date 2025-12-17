@@ -303,6 +303,11 @@ Image DB: /Users/tonglion/PycharmProjects/Experiment2/storage/chroma_images
 [2] /Users/tonglion/PycharmProjects/Experiment2/datasets/images/village field.png (village field.png)
 [3] /Users/tonglion/PycharmProjects/Experiment2/datasets/images/sunset by the sea.png (sunset by the sea.png)
 ```
+###  5) 文献分类效果示例（CV，NLP，RL）
+- 分类效果偏向于论文语言描述，比如 deepseek 的 DeepSeekMath- Pushing the Limits of Mathematical Reasoning in Open Language Models，我觉得它属于 RL 和 NLP 都行，模型把它分到了 NLP。
+  
+<img width="97" height="100" alt="截屏2025-12-17 下午7 09 26" src="https://github.com/user-attachments/assets/18b7c4b2-5bb0-40b6-a01d-c2a12a441fca" />
+
 ## 可选优化方向（后续可扩展）
 - 参考文献/致谢噪声过滤：减少引用段落对检索的干扰
 - 返回页码/段落定位：在元数据中存储 page/chunk → 页码映射
